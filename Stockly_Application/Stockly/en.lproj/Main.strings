@@ -1,0 +1,30 @@
+
+/* Class = "UINavigationItem"; title = "SignUp"; ObjectID = "8tU-N1-DCA"; */
+"8tU-N1-DCA.title" = "SignUp";
+
+/* Class = "UIButton"; normalTitle = "Signup"; ObjectID = "9uH-QT-iaJ"; */
+"9uH-QT-iaJ.normalTitle" = "Signup";
+
+/* Class = "UIViewController"; title = "Login"; ObjectID = "BYZ-38-t0r"; */
+"BYZ-38-t0r.title" = "Login";
+
+/* Class = "UILabel"; text = "Forgoten password or username?"; ObjectID = "Jgm-6F-rPg"; */
+"Jgm-6F-rPg.text" = "Forgoten password or username?";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "R5w-Za-3Hu"; */
+"R5w-Za-3Hu.normalTitle" = "Login";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "hU1-aM-0Jt"; */
+"hU1-aM-0Jt.normalTitle" = "Register";
+
+/* Class = "UIButton"; normalTitle = "I have an account. Let me login"; ObjectID = "icK-Uu-ebI"; */
+"icK-Uu-ebI.normalTitle" = "I have an account. Let me login";
+
+/* Class = "UINavigationItem"; title = "Login"; ObjectID = "oIz-lR-MOj"; */
+"oIz-lR-MOj.title" = "Login";
+
+/* Class = "UILabel"; text = "Don't have an account"; ObjectID = "x5X-7p-vhx"; */
+"x5X-7p-vhx.text" = "Don't have an account";
+
+/* Class = "UIButton"; normalTitle = "Click here"; ObjectID = "xZc-jo-gdm"; */
+"xZc-jo-gdm.normalTitle" = "Click here";
