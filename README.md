@@ -1,5 +1,5 @@
 # Stockly_Application
-(Team Project)
+(Team Project- Worked woth Mohammed Bappy)
 
 
 What is the application
